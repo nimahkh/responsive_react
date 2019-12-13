@@ -17,13 +17,20 @@
   color: #ffffff;
   position: absolute;
   left: 0;
-  top: 20px;
+  top: 45px;
   padding: 2px;
   padding-left: 16px;
 }
 
 .boat_image {
-  margin-top: 10px;
+  position: relative
+}
+
+.boat_image .card-img,.boat_image  .card-img-bottom {
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translate(0px, -50%);
 }
 
 .boat-card-top-bar {

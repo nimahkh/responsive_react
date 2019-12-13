@@ -1,7 +1,6 @@
 import React from "react";
 import { Row, Col, CardImg } from "reactstrap";
 import BoatImage from "../../assets/images/boat-image@2x.png";
-import "./Styles/Styles.css";
 import "./Styles/Mobile.css";
 import Tick from "../../assets/icons/check-material.png";
 import ViewDetail from "../../assets/icons/s.png";
@@ -9,7 +8,7 @@ import Flash from "../../assets/icons/flash-on-material.png";
 import Heart from "../../assets/icons/heart.png";
 import Stars from "../../assets/icons/stars.png";
 
-function DesktopItem(props) {
+function MobileItem(props) {
   const { item } = props;
 
   return (
@@ -144,4 +143,4 @@ function DesktopItem(props) {
   );
 }
 
-export default DesktopItem;
+export default MobileItem;

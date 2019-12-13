@@ -1,20 +1,30 @@
-.separated-col {
-  border-bottom: unset !important;
-}
+@media only screen and (max-width: 992px) {
+  .separated-col {
+    border-bottom: unset !important;
+  }
 
-.extras {
-  border: unset;
-  border-top: 1px solid #ccc;
-}
+  .extras {
+    border: unset;
+    border-top: 1px solid #ccc;
+  }
 
-.boat-card-top-bar,
-.features:first-child {
-  border-left: unset;
-}
+  .boat-card-top-bar,
+  .features:first-child {
+    border-left: unset;
+  }
 
-.view-detail img {
-  width: 70% !important;
-  height: 100%;
-  margin: 0 auto;
-  display: flex;
+  .view-detail img {
+    width: 70% !important;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+  }
+
+  .boat_image .card-img, .boat_image .card-img-bottom {
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top: 50%;
+    transform: translate(0px, -50%);
+  }
 }
