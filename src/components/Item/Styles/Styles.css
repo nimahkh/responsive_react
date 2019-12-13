@@ -3,6 +3,25 @@
   margin: 8px;
 }
 
+.recommended {
+  background-color:#363e40;
+  width: 156px;
+  height: 20px;
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color:#ffffff;
+  position: absolute;
+  left: 0;
+  top: 20px;
+  padding: 2px;
+  padding-left: 16px;
+}
+
 .boat_image {
   margin-top: 10px;
 }
@@ -197,13 +216,14 @@
   padding-bottom: 2px;
 }
 
- {
+  {
   /*Mboile*/
 }
+
 .mobile-details {
   border-top: 1px solid #ccc;
 }
 
-.mobile-details > div:first-child {
+.mobile-details>div:first-child {
   border-right: 1px solid #ccc;
 }

@@ -16,6 +16,7 @@ function DesktopItem(props) {
       <Row className="boat-card p-0">
         <Col xs={4} className="boat_image">
           <CardImg src={BoatImage} alt="Boat" />
+          <span className="recommended"> Zizoo recommended </span>
         </Col>
 
         <Col>
