@@ -2,6 +2,7 @@ import React from "react";
 import { Row, Col, CardImg } from "reactstrap";
 import BoatImage from "../../assets/images/boat-image@2x.png";
 import "./Styles/Styles.css";
+import "./Styles/Mobile.css";
 import Tick from "../../assets/icons/check-material.png";
 import ViewDetail from "../../assets/icons/s.png";
 import Flash from "../../assets/icons/flash-on-material.png";
