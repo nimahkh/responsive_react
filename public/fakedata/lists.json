@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Jeannau Sun Odyssey 45.2",
+    "location": "Split, Croatia",
+    "views": 69,
+    "year": 2001,
+    "Length": "12.04m",
+    "cabins": 10,
+    "guests": 15,
+    "reviews": 3,
+    "tags": ["Sicherungsshein", "luxury"],
+    "sail_type": "Rolling Mainsail",
+    "free_extras": "AirCon, WiFi, Very Long Extra Description",
+    "from": "€1,083.00",
+    "price_period": "weekly"
+  },
+  {
+    "id": 2,
+    "name": "Jeannau 45.2",
+    "location": "Split, Croatia",
+    "views": 55,
+    "year": 2018,
+    "Length": "25.04m",
+    "cabins": 20,
+    "guests": 33,
+    "reviews": 3,
+    "tags": ["Sicherungsshein", "luxury"],
+    "sail_type": "Rolling Mainsail",
+    "free_extras": "AirCon, WiFi, Very Long Extra Description",
+    "from": "€2,083.00",
+    "price_period": "monthly"
+  },
+  {
+    "id": 3,
+    "name": "Odyssey 45.2",
+    "location": "Split, Croatia",
+    "views": 99,
+    "year": 2020,
+    "Length": "75.04m",
+    "cabins": 5,
+    "guests": 20,
+    "reviews": 52,
+    "tags": ["Sicherungsshein", "luxury"],
+    "sail_type": "Rolling Mainsail",
+    "free_extras": "AirCon, WiFi, Very Long Extra Description",
+    "from": "€20,083.00",
+    "price_period": "daily"
+  }
+]

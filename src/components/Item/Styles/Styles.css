@@ -1,0 +1,209 @@
+.boat-card {
+  border: 1px solid #ccc;
+  margin: 8px;
+}
+
+.boat_image {
+  margin-top: 10px;
+}
+
+.boat-card-top-bar {
+  background-color: #f8f8f8;
+  border-bottom: solid 1px #cac9c9;
+  border-left: solid 1px #cac9c9;
+}
+
+.boat-card-top-left {
+  border-right: 1px solid #cac9c9;
+}
+
+.boat-card-top-right {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.boat-card-top-right span {
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #de6449;
+}
+
+.top-right-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #363e40;
+}
+
+.year {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.27px;
+  text-align: left;
+  color: #363e40;
+}
+
+.city {
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+}
+
+.Hot {
+  width: 28px;
+  height: 13px;
+  border-radius: 1px;
+  background-color: #de6449;
+  font-size: 9px !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #ffffff !important;
+  position: relative;
+  margin-right: 10px;
+}
+
+.features {
+  border-right: 1px solid #ccc;
+}
+
+.features:first-child {
+  border-left: 1px solid #ccc;
+}
+
+.extras {
+  border: 1px solid #ccc;
+  border-bottom: unset;
+}
+
+.value {
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #363e40;
+}
+
+.label {
+  opacity: 0.44;
+  font-family: Open Sans;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.tag {
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.82;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(54, 62, 64, 0.8);
+}
+
+.tag img {
+  width: 10px;
+  margin-right: 5px;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 11px;
+  opacity: 0.42;
+}
+
+.small {
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.reviews {
+  opacity: 0.44;
+  font-family: Open Sans;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #363e40;
+}
+
+.review-col {
+  height: 53px;
+}
+
+.separated-col {
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.details-col {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.view-detail img {
+  width: 12vw !important;
+  height: 100%;
+}
+
+.direct-booking {
+  padding-bottom: 2px;
+}
+
+ {
+  /*Mboile*/
+}
+.mobile-details {
+  border-top: 1px solid #ccc;
+}
+
+.mobile-details > div:first-child {
+  border-right: 1px solid #ccc;
+}
