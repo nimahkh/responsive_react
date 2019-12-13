@@ -22,7 +22,7 @@ function DesktopItem(props) {
         <Col>
           {/*top*/}
           <Row className="boat-card-top-bar">
-            <Col className="boat-card-top-left p-2" xs={8}>
+            <Col className="boat-card-top-left p-2" xs={9}>
               <Row>
                 <Col xs={10}>
                   {/*left*/}
