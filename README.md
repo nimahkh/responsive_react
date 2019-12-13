@@ -6,18 +6,6 @@ The command to run CRA project on 3000 port.
 
 `npm run start`
 
-##### Build
-
-The command to build project in `build` folder.
-
-`npm run build`
-
-##### Test
-
-The command to run unit tests.
-
-`npm run test`
-
 ##### Prettier
 
 The command to run Prettier to make codes Pretty with nice indents.
