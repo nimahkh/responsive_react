@@ -20,7 +20,8 @@
     display: flex;
   }
 
-  .boat_image .card-img, .boat_image .card-img-bottom {
+  .boat_image .card-img,
+  .boat_image .card-img-bottom {
     margin: 0 auto;
     padding: 20px;
     position: relative;
