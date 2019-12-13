@@ -1,4 +1,8 @@
 @media only screen and (max-width: 992px) {
+  .recommended{
+    top : 35px
+  }
+
   .separated-col {
     border-bottom: unset !important;
   }
